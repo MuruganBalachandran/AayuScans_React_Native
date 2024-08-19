@@ -1,4 +1,4 @@
-AayuScans
+# **AayuScans**
 
 ![AayuScans](https://github.com/user-attachments/assets/88f2b0ca-4edf-41f6-9831-7dc091bdcac1)
 
