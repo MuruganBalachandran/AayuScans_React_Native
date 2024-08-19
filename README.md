@@ -1,4 +1,5 @@
-![Demo](https://github.com/user-attachments/assets/caf09362-82ab-4fb5-954d-759502669900)
+![AayuScans](https://github.com/user-attachments/assets/88f2b0ca-4edf-41f6-9831-7dc091bdcac1)
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
