@@ -7,7 +7,7 @@ AayuScans is a React Native mobile application designed to scan and identify med
 Getting Started
 
 Prerequisites
-Before you begin, ensure you have completed the React Native - Environment Setup instructions up to the "Creating a new application" step.
+Before you begin, ensure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions up to the "Creating a new application" step.
 
 Installation
 Clone the repository:
