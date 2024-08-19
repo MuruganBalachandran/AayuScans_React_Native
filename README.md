@@ -16,9 +16,9 @@ Clone the repository:
 
 git clone https://github.com/your-username/aayuscans.git
 cd aayuscans
-``
+
 Install the  dependencies:
-```bash
+
 # using npm
 npm install
 
