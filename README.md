@@ -1,82 +1,85 @@
+AayuScans
+
 ![AayuScans](https://github.com/user-attachments/assets/88f2b0ca-4edf-41f6-9831-7dc091bdcac1)
 
+AayuScans is a React Native mobile application designed to scan and identify medicinal plants. By leveraging React Native and Firebase, this app provides an intuitive interface for users to explore and learn about various medicinal plants.
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Getting Started
+Prerequisites
+Before you begin, ensure you have completed the React Native - Environment Setup instructions up to the "Creating a new application" step.
 
-# Getting Started
+Installation
+Clone the repository:
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+bash
+Copy code
+git clone https://github.com/your-username/aayuscans.git
+cd aayuscans
+Install the required dependencies:
 
-## Step 1: Start the Metro Server
+bash
+Copy code
+# using npm
+npm install
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+# OR using Yarn
+yarn install
+Step 1: Start the Metro Server
+Metro is the JavaScript bundler that ships with React Native. To start Metro, run the following command from the root of your project:
 
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
+bash
+Copy code
 # using npm
 npm start
 
 # OR using Yarn
 yarn start
-```
+Step 2: Start your Application
+While Metro Bundler runs in its own terminal, open a new terminal from the root of your React Native project and run the following command to start your Android or iOS app:
 
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
+For Android
+bash
+Copy code
 # using npm
 npm run android
 
 # OR using Yarn
 yarn android
-```
-
-### For iOS
-
-```bash
+For iOS
+bash
+Copy code
 # using npm
 npm run ios
 
 # OR using Yarn
 yarn ios
-```
+If everything is set up correctly, your new app should be running in your Android Emulator or iOS Simulator shortly.
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+Step 3: Modifying your App
+Now that your app is up and running, let's make some changes:
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+Open App.tsx in your text editor and modify some lines.
 
-## Step 3: Modifying your App
+For Android: Press the <kbd>R</kbd> key twice or select "Reload" from the Developer Menu (<kbd>Ctrl</kbd> + <kbd>M</kbd> on Windows and Linux or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> on macOS) to see your changes.
 
-Now that you have successfully run the app, let's modify it.
+For iOS: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+Features
+Medicinal Plant Identification: Scan and identify various medicinal plants with ease.
+Firebase Integration: Store and retrieve data seamlessly using Firebase.
+User-friendly Interface: Simple and intuitive UI for users to explore medicinal plants.
+Troubleshooting
+If you encounter any issues, refer to the Troubleshooting Guide.
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Learn More
+To learn more about React Native and how to enhance your app, check out these resources:
 
-## Congratulations! :tada:
+React Native Website - learn more about React Native.
+Getting Started - overview of React Native and environment setup.
+Learn the Basics - a guided tour of the React Native basics.
+Blog - read the latest official React Native blog posts.
+@facebook/react-native - the Open Source GitHub repository for React Native.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+This README file provides clear instructions for setting up, running, and modifying your AayuScans app, along with helpful resources and troubleshooting tips.
