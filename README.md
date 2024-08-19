@@ -63,12 +63,15 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
-Step 3: Modifying your App
-Now that your app is up and running, let's make some changes:
+## Step 3: Modifying your App
+
+Now that your app is up and running,
+
+## let's make some changes:
 
 Open App.tsx in your text editor and modify some lines.
 
-Features
+## Features
 
 Medicinal Plant Identification: Scan and identify various medicinal plants with ease.
 Firebase Integration: Store and retrieve data seamlessly using Firebase.
@@ -76,7 +79,7 @@ User-friendly Interface: Simple and intuitive UI for users to explore medicinal 
 Troubleshooting
 If you encounter any issues, refer to the Troubleshooting Guide.
 
-Learn More
+## Learn More
 To learn more about React Native and how to enhance your app, check out these resources:
 
 React Native Website - learn more about React Native.
