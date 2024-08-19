@@ -4,7 +4,7 @@
 
 AayuScans is a React Native mobile application designed to scan and identify medicinal plants. By leveraging React Native and Firebase, this app provides an intuitive interface for users to explore and learn about various medicinal plants.
 
-Getting Started
+## Getting Started
 
 Prerequisites
 Before you begin, ensure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions up to the "Creating a new application" step.
