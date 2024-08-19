@@ -60,10 +60,6 @@ Now that your app is up and running, let's make some changes:
 
 Open App.tsx in your text editor and modify some lines.
 
-For Android: Press the <kbd>R</kbd> key twice or select "Reload" from the Developer Menu (<kbd>Ctrl</kbd> + <kbd>M</kbd> on Windows and Linux or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> on macOS) to see your changes.
-
-For iOS: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes.
-
 Features
 Medicinal Plant Identification: Scan and identify various medicinal plants with ease.
 Firebase Integration: Store and retrieve data seamlessly using Firebase.
@@ -82,4 +78,4 @@ Blog - read the latest official React Native blog posts.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README file provides clear instructions for setting up, running, and modifying your AayuScans app, along with helpful resources and troubleshooting tips.
+This README file now has command sections styled consistently throughout the document.
